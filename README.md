@@ -1,71 +1,47 @@
-# 📦 SistemaInventario API (.NET)
+# 📦 SistemaInventario API
 
-![Status](https://img.shields.io/badge/Status-Activo-brightgreen?style=for-the-badge)
-![Backend](https://img.shields.io/badge/.NET%206-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Database](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Layered-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Activo-green?style=flat-square)
+![Platform](https://img.shields.io/badge/.NET-6.0-blue?style=flat-square&logo=dotnet)
+![DB](https://img.shields.io/badge/SQL_Server-Database-red?style=flat-square&logo=microsoftsqlserver)
 
-**SistemaInventario API** es una solución de backend robusta diseñada para la gestión integral de almacenes. Este proyecto demuestra la implementación de una arquitectura limpia y el manejo de flujos de datos relacionales en un entorno empresarial.
-
----
-
-## 🎯 Valor de Negocio (Lo que resuelve)
-Este sistema centraliza el control de inventarios, permitiendo a las empresas:
-* **Reducir errores humanos** mediante validaciones de stock automatizadas.
-* **Garantizar la trazabilidad** total de cada producto desde su ingreso hasta su salida.
-* **Escalar la operación** gracias a una base de datos normalizada y una API de alto rendimiento.
+API REST minimalista para la gestión de productos y control de stock, desarrollada bajo estándares de arquitectura limpia.
 
 ---
 
-## 🧠 Decisiones Técnicas y Arquitectura
-Como **Ingeniero Informático**, he diseñado este sistema priorizando la mantenibilidad:
-
-* **Separación de Responsabilidades:** Utilicé una arquitectura de capas (Controllers -> Services -> Data). Esto facilita las pruebas unitarias y permite cambiar la lógica de negocio sin afectar la base de datos.
-* **Integridad de Datos:** Implementé **Entity Framework Core** con migraciones para asegurar que el esquema de la base de datos sea consistente en cualquier entorno.
-* **Inyección de Dependencias:** El sistema utiliza el contenedor nativo de .NET para desacoplar los servicios de sus implementaciones, siguiendo los principios **SOLID**.
+## 🛠️ Stack Técnico
+* **Backend:** .NET 6 (Web API) con C#.
+* **Acceso a Datos:** Entity Framework Core (Code First).
+* **Base de Datos:** Microsoft SQL Server.
+* **Documentación:** Swagger UI (OpenAPI).
 
 ---
 
-## 🛠️ Stack Tecnológico
-* **Framework:** .NET 6.0 (Web API)
-* **Lenguaje:** C# 10
-* **Persistencia:** Microsoft SQL Server
-* **ORM:** Entity Framework Core (Code First)
-* **Documentación:** Swagger (OpenAPI)
+## 🏗️ Arquitectura (Simple & Escalable)
+El proyecto utiliza una estructura de **3 Capas** para separar responsabilidades:
+1. **Controllers:** Gestionan las rutas y peticiones externas.
+2. **Services:** Contienen la lógica de negocio (validaciones de stock).
+3. **Models & Data:** Definen las entidades y la persistencia en base de datos.
 
 ---
 
 ## ⚙️ Instalación Rápida
-1. **Clonar repositorio:** `git clone https://github.com/SebasR12/SistemaInventario_API.git`
-2. **Conexión:** Configurar `DefaultConnection` en `appsettings.json`.
-3. **Base de Datos:** Ejecutar `dotnet ef database update` para generar tablas.
-4. **Run:** Ejecutar `dotnet run` y navegar a `/swagger` para pruebas.
+1. Clonar: `git clone https://github.com/SebasR12/SistemaInventario_API.git`
+2. Configurar `DefaultConnection` en `appsettings.json`.
+3. Migrar DB: `dotnet ef database update`
+4. Correr: `dotnet run`
 
 ---
 
-## 🌐 Endpoints Estratégicos
-| Método | Endpoint | Impacto |
-| :--- | :--- | :--- |
-| `POST` | `/api/movimientos` | Punto crítico: Procesa la lógica de stock y registra el historial. |
-| `GET` | `/api/productos` | Consulta optimizada del catálogo global. |
-| `PUT` | `/api/productos/{id}` | Actualización controlada de activos de la empresa. |
+## 🌐 Endpoints
+* `GET /api/productos` - Listado general.
+* `POST /api/productos` - Registro de nuevos items.
+* `POST /api/movimientos` - Control de entradas/salidas de stock.
 
 ---
 
-## 📈 Roadmap (Próximas Mejoras)
-Para demostrar mi visión de crecimiento del sistema, planeo implementar:
-* [ ] **Seguridad:** Autenticación mediante JWT (JSON Web Tokens).
-* [ ] **Contenedores:** Dockerización para despliegue en la nube (Azure/AWS).
-* [ ] **Frontend:** Dashboard administrativo en React o Angular.
-
----
-
-## 👨‍💻 Sobre el Autor
+## 👨‍💻 Autor
 **Sebastián Rodríguez Valverde**
-*Ingeniero Informático en formación enfocado en Backend & Arquitectura.*
-
-* **GitHub:** [@SebasR12](https://github.com/SebasR12)
-* **LinkedIn:** [Tu Perfil Aquí]
+*Ingeniero Informático en formación.*
 
 ---
-*Este proyecto está bajo la Licencia MIT.*
+*Licencia MIT*
