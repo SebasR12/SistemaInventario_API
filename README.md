@@ -66,3 +66,9 @@ La API devuelve objetos tipados según los modelos de C#:
   "precio": 199.99,
   "fechaCreacion": "2026-03-23T15:42:00"
 }
+👨‍💻 Autor
+Sebastián Rodríguez Valverde
+
+GitHub: @SebasR12
+
+Perfil: Graduado de Bachillerato | Ingeniero Informático.
