@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|c:\\users\\sebas\\source\\repos\\sistemainventario_api\\sistemainventario_api\\controllers\\rol_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|solutionrelative:sistemainventario_api\\controllers\\rol_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|c:\\users\\sebas\\source\\repos\\sistemainventario_api\\sistemainventario_api\\repositories\\factura_repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|solutionrelative:sistemainventario_api\\repositories\\factura_repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|c:\\users\\sebas\\source\\repos\\sistemainventario_api\\sistemainventario_api\\repositories\\usuario_repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|solutionrelative:sistemainventario_api\\repositories\\usuario_repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|c:\\users\\sebas\\source\\repos\\sistemainventario_api\\sistemainventario_api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|solutionrelative:sistemainventario_api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|c:\\users\\sebas\\source\\repos\\sistemainventario_api\\sistemainventario_api\\controllers\\usuario_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|solutionrelative:sistemainventario_api\\controllers\\usuario_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|c:\\users\\sebas\\source\\repos\\sistemainventario_api\\sistemainventario_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|solutionrelative:sistemainventario_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|c:\\users\\sebas\\source\\repos\\sistemainventario_api\\sistemainventario_api\\controllers\\producto_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|solutionrelative:sistemainventario_api\\controllers\\producto_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|c:\\users\\sebas\\source\\repos\\sistemainventario_api\\sistemainventario_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19326FD7-E5D5-4B0B-A8EE-E71B0648790B}|SistemaInventario_API\\SistemaInventario_API.csproj|solutionrelative:sistemainventario_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rol_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Controllers\\Rol_Controller.cs",
+              "RelativeDocumentMoniker": "SistemaInventario_API\\Controllers\\Rol_Controller.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Controllers\\Rol_Controller.cs",
+              "RelativeToolTip": "SistemaInventario_API\\Controllers\\Rol_Controller.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T20:48:24.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factura_Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Repositories\\Factura_Repositorio.cs",
+              "RelativeDocumentMoniker": "SistemaInventario_API\\Repositories\\Factura_Repositorio.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Repositories\\Factura_Repositorio.cs",
+              "RelativeToolTip": "SistemaInventario_API\\Repositories\\Factura_Repositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T20:48:19.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Controllers\\Usuario_Controller.cs",
+              "RelativeDocumentMoniker": "SistemaInventario_API\\Controllers\\Usuario_Controller.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Controllers\\Usuario_Controller.cs",
+              "RelativeToolTip": "SistemaInventario_API\\Controllers\\Usuario_Controller.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAiwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:39:48.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario_Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Repositories\\Usuario_Repositorio.cs",
+              "RelativeDocumentMoniker": "SistemaInventario_API\\Repositories\\Usuario_Repositorio.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Repositories\\Usuario_Repositorio.cs",
+              "RelativeToolTip": "SistemaInventario_API\\Repositories\\Usuario_Repositorio.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:28:02.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaInventario_API\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaInventario_API\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:18:36.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Controllers\\Producto_Controller.cs",
+              "RelativeDocumentMoniker": "SistemaInventario_API\\Controllers\\Producto_Controller.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Controllers\\Producto_Controller.cs",
+              "RelativeToolTip": "SistemaInventario_API\\Controllers\\Producto_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:52:30.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaInventario_API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Models\\Cliente.cs",
+              "RelativeToolTip": "SistemaInventario_API\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:12:20.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaInventario_API\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\SistemaInventario_API\\SistemaInventario_API\\Program.cs",
+              "RelativeToolTip": "SistemaInventario_API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:58:53.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
