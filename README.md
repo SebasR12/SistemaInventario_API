@@ -3,7 +3,6 @@
 ![Status](https://img.shields.io/badge/Status-Completado-brightgreen?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Database](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **API REST** profesional desarrollada en **.NET** para la gestión integral de inventarios. Este sistema permite administrar productos, categorías y flujos de stock de manera eficiente, segura y altamente escalable con **SQL Server**.
 
